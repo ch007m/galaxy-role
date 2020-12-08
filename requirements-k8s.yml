@@ -1,0 +1,6 @@
+---
+roles:
+  - src: https://github.com/snowdrop/k8s-infra.git
+    version: master
+    name: openshift_env
+    path: ./ansible/roles

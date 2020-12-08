@@ -2,4 +2,4 @@
 - name: say hello on Localhost
   hosts: all
   roles:
-    - {role: role-1}
+    - {role: roles/role-1}
