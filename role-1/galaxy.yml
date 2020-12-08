@@ -1,0 +1,4 @@
+namespace: "community"
+name: "role-1"
+version: "0.0.1"
+readme: "README.md"
