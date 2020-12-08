@@ -3,4 +3,4 @@ name: "role-1"
 version: "0.0.1"
 readme: "README.md"
 authors:
-  - "Charles Moulliard >cmoulliard@redhat.com"
+  - "Charles Moulliard <cmoulliard@redhat.com"
