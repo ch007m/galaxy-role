@@ -1,0 +1,5 @@
+---
+- name: say hello on Localhost
+  hosts: all
+  roles:
+    - {role: role-1}

@@ -1,0 +1,5 @@
+---
+- name: Configure NTP on Localhost
+  hosts: all
+  roles:
+    - {role: bennojoy.ntp}
