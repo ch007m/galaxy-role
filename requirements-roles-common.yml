@@ -4,6 +4,14 @@
 # changing role galaxy-role from main to main
 # extracting galaxy-role to /Users/cmoullia/temp/ansible-dummy/roles/galaxy-role
 # galaxy-role (main) was installed successfully
+#
+# or
+# ansible-galaxy install -r requirements-roles-common.yml --force
+# Starting galaxy role install process
+#- changing role galaxy-role from main to main
+#- extracting galaxy-role to /Users/cmoullia/.ansible/roles/galaxy-role
+#- galaxy-role (main) was installed successfully
+# THAT WORKS :-) !!!!!!!!
 
 roles:
   - src: https://github.com/ch007m/galaxy-role
