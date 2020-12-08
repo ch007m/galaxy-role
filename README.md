@@ -18,7 +18,7 @@ ansible-playbook -i hosts hello.yml
 ```
 Add next a git repo and publish it on github
 
-### Install a galaxy role from a git hub repo
+### Install the role from a git hub repo
 
 Install the role using the created github repo
 ```bash

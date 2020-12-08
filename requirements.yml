@@ -3,4 +3,4 @@ roles:
   - src: https://github.com/ch007m/galaxy-role.git
     version: main
     name: role-1
-    # path: ./roles
+    # path: ./role-1
