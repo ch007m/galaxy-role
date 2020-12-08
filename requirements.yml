@@ -1,5 +1,0 @@
----
-collections:
-  - name: https://github.com/ch007m/galaxy-role.git
-    type: git
-    version: main

@@ -22,7 +22,8 @@ Add next a git repo and publish it on github
 
 Install the role using the created github repo
 ```bash
-ansible-galaxy install -r requirements.yml
+ansible-galaxy install -r requirements-collections.yml
+ansible-galaxy install -r requirements-roles.yml
 ```
 ### How To install a galaxy role and use it
 

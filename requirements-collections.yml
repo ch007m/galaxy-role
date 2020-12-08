@@ -1,0 +1,16 @@
+---
+# ansible-galaxy install -r requirements-roles.yml
+# Starting galaxy collection install process
+# Process install dependency map
+# Starting collection install process
+# Installing 'community.role-1:0.0.1' to '/Users/cmoullia/.ansible/collections/ansible_collections/community/role-1'
+# Created collection for community.role-1 at /Users/cmoullia/.ansible/collections/ansible_collections/community/role-1
+# community.role-1 (0.0.1) was installed successfully
+# Installing 'community.role-2:0.0.1' to '/Users/cmoullia/.ansible/collections/ansible_collections/community/role-2'
+# Created collection for community.role-2 at /Users/cmoullia/.ansible/collections/ansible_collections/community/role-2
+# community.role-2 (0.0.1) was installed successfully
+
+collections:
+  - name: https://github.com/ch007m/galaxy-role.git
+    type: git
+    version: main
