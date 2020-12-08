@@ -1,6 +1,5 @@
 ---
-roles:
-  - src: https://github.com/ch007m/galaxy-role.git
+collections:
+  - name: https://github.com/ch007m/galaxy-role.git
+    type: git
     version: main
-    name: role-1
-    # path: ./role-1
